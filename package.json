@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cachrisman/method_madness/issues"
   },
-  "homepage": "https://github.com/cachrisman/method_madness"
+  "homepage": "https://github.com/cachrisman/method_madness",
+  "dependencies": {
+    "mongoose": "^4.0.3"
+  }
 }
